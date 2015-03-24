@@ -1,0 +1,41 @@
+{
+  "name": "feather",
+  "version": "1.0.0",
+  "description": "\"A HTML5 & CSS boilerplate.\"",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hongkheng/feather.git"
+  },
+  "keywords": [
+    "\"boilerplate",
+    "javascript",
+    "HTML5",
+    "CSS\""
+  ],
+  "author": "Yap Hong Kheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hongkheng/feather/issues"
+  },
+  "homepage": "https://github.com/hongkheng/feather",
+  "devDependencies": {
+    "browser-sync": "^2.4.0",
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.4",
+    "gulp-load-plugins": "^0.9.0",
+    "gulp-sass": "^1.3.3",
+    "gulp-util": "^3.0.4",
+    "hammerjs": "^2.0.4",
+    "jshint-stylish": "^1.0.1",
+    "normalize.css": "^3.0.2",
+    "soundmodels": "^2.4.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^2.6.0"
+  }
+}
